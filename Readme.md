@@ -12,7 +12,7 @@ C:\Users\User>C:\Users\User\Downloads\MakeMeUNPWNABLE.bat
 2. Disable Spooler (WARNING! This will break printing) [Y/N]? N
 3. Disable RemoteRegistry (Can be used for latteral) [Y/N]? N
 4. Disable WSearch (Can be used for persist) [Y/N]? N
-5. Disable admin shares by registry (WARNING! This will PSexec to you PC) [Y/N]? N
+5. Disable admin shares by registry (WARNING! This will break PSexec to you PC) [Y/N]? N
 6. Harden MS Office against common malspam attacks [Y/N]? N
 7. Enable SmartScreen for Edge [Y/N]? N
 8. Disable local creds caching [Y/N]? N
